@@ -75,6 +75,19 @@ O cenário foi desenvolvido para simular um pequeno museu anatômico virtual con
 - Caixa de amostragem secundária;
 - Modelo de crânio humano.
 
+## Mesa
+
+- base cinza;
+
+## Cadeira
+
+- base dourada;
+
+## Enfeite Dragão
+
+- partes
+- patas, rabo, asa
+
 ---
 
 # 🥽 RECURSOS XR UTILIZADOS
@@ -114,12 +127,10 @@ MuseuHumanoideVR
 │
 ├── Assets
 ├── Packages
-├── ProjectSettings
 │
 ├── Models
 ├── Materials
 ├── Textures
-└── Scenes
 ```
 
 ---
